@@ -1,0 +1,29 @@
+{
+  "filters": {
+    "allowlist": {
+      "allow": [
+          "/合同会社合同屋/",
+          "/合同会社/",
+          "/株式会社/",
+          "サーバー",
+          "webkit",
+          "web-assistant",
+          "インターフェース",
+          "KDDIウェブコミュニケーションズ",
+          "webhook",
+          "例えば",
+          "ライブラリー",
+          "基調講演",
+          "コンピューター",
+          "キャラクター",
+          "module",
+          "git clone"
+      ]
+    }
+  },
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": true,
+    "spellcheck-tech-word": true
+  }
+}

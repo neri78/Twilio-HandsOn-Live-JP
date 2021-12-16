@@ -1,0 +1,20 @@
+{
+  "name": "Twilio-HandsOn-Live-JP",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "textlint": "npx textlint docs",
+    "link-check": "npx markdown-link-check"
+  },
+  "keywords": [],
+  "author": "Daizen",
+  "license": "MIT",
+  "devDependencies": {
+    "markdown-link-check": "^3.9.0",
+    "textlint": "^12.1.0",
+    "textlint-rule-preset-ja-spacing": "^2.2.0",
+    "textlint-rule-preset-ja-technical-writing": "^7.0.0",
+    "textlint-rule-spellcheck-tech-word": "^5.0.0"
+  }
+}
