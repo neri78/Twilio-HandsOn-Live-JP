@@ -222,3 +222,7 @@
 ```bash
 node delete-media-processors.js
 ```
+
+全てを実装済みのサンプルアプリケーションはこちらのリポジトリから取得できます。
+
+[github - @neri78/live-sample-jp/tree/completion](https://github.com/neri78/live-sample-jp/tree/completion)
