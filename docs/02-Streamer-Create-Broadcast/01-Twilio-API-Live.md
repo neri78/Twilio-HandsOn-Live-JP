@@ -53,7 +53,7 @@ Sync Service SIDを取得しているコードの下に次のコードを追加�
 ```js
   // PlayerStreamerを作成
   const playerStreamer = await client.media.playerStreamer.create();
-  console.log(`PlayerStramerが作成されました - ${playerStreamer.sid}`);
+  console.log(`PlayerStreamerが作成されました - ${playerStreamer.sid}`);
 ```
 
 ## 1-4. MediaProcessorを作成

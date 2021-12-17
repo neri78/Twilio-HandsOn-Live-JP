@@ -4,7 +4,7 @@
 
 ## 1-1. stop-broadcast.jsを確認
 
-`配信を開始`ボタンがクリックされると、*functions/stop-broadcast.js*が呼び出されます。
+`配信を停止`ボタンがクリックされると、*functions/stop-broadcast.js*が呼び出されます。
 
 現時点では以下のように環境変数の取得やレスポンス、そして先ほど実装したようなTwilio Nodeヘルパーライブラリの初期化コードが実装されています。
 
