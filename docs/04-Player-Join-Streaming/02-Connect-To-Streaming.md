@@ -3,7 +3,7 @@
 ハンズオン最後の手順です。ここでは視聴画面からストリーミングに接続します。
 
 
-## 2-1. Twilio Live Plpayer SDKをロード
+## 2-1. Twilio Live Player SDKをロード
 
 *assets/player.html*ファイルをコードエディタで開き、56行目のコメントを解除します。この`twilio-live-player.min.js`が視聴アプリ用に提供されている[SDK](https://www.twilio.com/docs/live/javascript-player-sdk-overview)です。
 
